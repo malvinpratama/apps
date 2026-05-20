@@ -1,0 +1,8 @@
+# Tell GitHub Linguist to ignore native platform folders for language detection.
+# This makes Dart the primary detected language for Flutter projects.
+windows/** linguist-vendored
+linux/** linguist-vendored
+macos/** linguist-vendored
+ios/** linguist-vendored
+android/** linguist-vendored
+web/** linguist-vendored
